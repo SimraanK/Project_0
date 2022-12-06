@@ -1,0 +1,302 @@
+
+body {
+
+    background-image: url(https://wallpapers.com/images/high/black-wood-texture-wuuaobghtdllhliu.jpg);
+    /* background-repeat:no-repeat; */
+    /* background-size: cover; */
+    line-height: 1.5rem;
+    
+}
+
+nav,
+header, 
+footer {
+
+    display: block;
+}
+
+nav {
+    width: 100%;
+    margin: 0;
+    
+}
+
+nav ul {
+    /* background-color: #eee; */
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    
+    
+
+}
+
+ul.topnav li {
+    list-style: none;
+    float: left;
+    margin-left: 12rem;
+    
+    
+    
+     
+        
+}
+
+
+ul.topnav li a {
+    display: block;
+    text-decoration: none;
+    padding: 14px;
+    min-height: 16px;
+    text-align: center;
+    text-transform: uppercase;
+    color: rgb(100, 92, 92);
+    
+}
+
+ul.topnav li a:hover {
+    color: rgb(83, 5, 5);
+    
+    
+
+}
+
+
+/* li a:hover {
+
+    color: aqua;
+
+} */
+
+h1 {
+    color: rgb(100, 92, 92);
+    text-align: center;
+    text-shadow: 3px 3px 5px black;
+    line-height: 4rem;
+    font-family: 'Dancing+Script', cursive;
+    font-size: 40px;
+    
+}
+
+
+h2 {
+
+    color: rgb(100, 92, 92);
+    text-indent: 4%;
+    font-family: 'Dancing+Script', cursive;
+
+}
+
+
+h3 {
+
+    color:rgb(100, 92, 92);
+    font-size: 29px;
+    text-indent: 4%;
+    font-family: 'Dancing+Script', cursive;
+
+}
+
+h4 {
+
+    color: rgb(100, 92, 92);
+    font-size: 29px;
+    text-indent: 1.5%;
+    font-family: 'Dancing+Script', cursive;
+    
+}
+
+p {
+    color: rgb(100, 92, 92) ;
+    font-size: 30px;
+    line-height: 2.5rem;
+    padding: 2%;
+
+    text-align: center;
+    font-style:oblique;
+       
+    
+}
+
+
+.order {
+
+    font-style: italic;
+    color:rgb(100, 92, 92);
+    text-indent: 4%;
+    font-size: 22px;
+    line-height: 2rem;
+    
+    
+}
+
+
+
+form {
+
+    color: rgb(100, 92, 92);
+    text-indent: 5%;
+    font-size: 22px;
+    
+    
+
+}
+
+/* .square {
+
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(to right, red, yellow);
+    margin: auto;
+    /* background: radial-gradient(circle, rgb(0, 0, 0), yellow, rgb(116, 3, 223)); */
+/* } */
+
+/* #circle {
+
+    color: brown;
+    font-size: 40px;
+}  */
+
+
+
+
+
+
+
+
+
+
+
+
+button {
+
+    background-color: rgb(100, 92, 92);
+    text-indent: 4%;
+
+}
+
+
+
+
+.video {
+
+    text-indent: 10%;
+
+}
+
+
+
+/* .but {
+
+    
+    
+    
+
+} */
+
+
+button {
+
+    color: rgb(160, 141, 141);
+    background-color: rgb(92, 16, 16);
+    border-radius: 10px;
+    border: none;
+    font-size: 15px;
+    padding: 5px 7px 5px 0px;
+    margin-left: 200px;
+    
+}
+
+input[type="text"]{
+
+    background-color: #444;
+    width: 200px;
+    font-size: 18px;
+    border-radius: 50px;
+       
+    
+
+}
+
+
+input[type="email"]{
+
+    background-color: #444;
+    width: 200px;
+    font-size: 18px;
+    border-radius: 50px;
+    
+    
+    
+}
+
+/* p:hover {
+    color: rgb(22, 71, 37);
+ }  */
+
+
+/* img {
+
+   
+    max-width: 100%;
+    height: auto;
+    padding: 5px;
+    
+
+
+}
+
+.imag {
+
+    border-radius: 4%;
+    border: 2px solid rgb(59, 57, 57);
+    padding: 2px;
+    /* max-width: auto; */
+    /* height: auto; */
+    /* opacity: 0.5; */
+    /* margin: auto; */
+    /* display: block; */
+
+
+/* } */
+
+
+/* .row {
+
+    display: flex;
+    width: 100%;
+}
+ 
+
+.row::after{
+
+    display: block;
+    clear: both;
+    content: "";
+
+}
+
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width:100%;}
+
+* {
+
+    box-sizing: border-box;
+
+}
+
+[class*="col-"] {
+    border: 2px solid red;
+    padding: 15px;
+    float: left;
+} */
